@@ -1,4 +1,4 @@
-# Tipos de variables [Python]
+1# Tipos de variables [Python]
 # Ejercicios de práctica
 
 # Autor: Inove Coding School
@@ -27,9 +27,15 @@ numero_2 = int(input())
 # NOTA: No coloque usted los nùmeros y resultados, use las variables
 
 # Suma
-
+resultado_suma = numero_1 + numero_2
 # Resta
-
+resulTADO_RESTA = numero_1 - numero_2
 # División
-
+resultado_division = numero_1 / numero_2
 # Multiplicación
+resultaado_multiplicacion = numero_1 * numero_2
+
+print(' El resutado de la suma es: ', resultado_suma)
+print(' El resutado de la resta es: ', resulTADO_RESTA)
+print(' El resutado de la suma es: ', resultaado_multiplicacion)
+print(' El resutado de la suma es: ', resultado_division)
